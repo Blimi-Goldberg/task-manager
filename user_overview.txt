@@ -1,0 +1,57 @@
+The total number of tasks: 7 | The total number of users: 7   
+        =======================
+admin's metrics
+Total number of tasks assigned to admin: 2
+Total percentage of tasks assigned to admin: 28.57%
+Total percentage of completed tasks: 100.0%
+Total percentage of incompleted tasks: 0.0%
+Total percentage of overdue tasks: 0.0%
+
+=======================
+Dassa's metrics
+Total number of tasks assigned to Dassa: 1
+Total percentage of tasks assigned to Dassa: 14.29%
+Total percentage of completed tasks: 0.0%
+Total percentage of incompleted tasks: 100.0%
+Total percentage of overdue tasks: 0.0%
+
+=======================
+Blimi's metrics
+Total number of tasks assigned to Blimi: 2
+Total percentage of tasks assigned to Blimi: 28.57%
+Total percentage of completed tasks: 50.0%
+Total percentage of incompleted tasks: 50.0%
+Total percentage of overdue tasks: 0.0%
+
+=======================
+gitty's metrics
+Total number of tasks assigned to gitty: 1
+Total percentage of tasks assigned to gitty: 14.29%
+Total percentage of completed tasks: 100.0%
+Total percentage of incompleted tasks: 0.0%
+Total percentage of overdue tasks: 0.0%
+
+=======================
+faigy's metrics
+Total number of tasks assigned to faigy: 1
+Total percentage of tasks assigned to faigy: 14.29%
+Total percentage of completed tasks: 0.0%
+Total percentage of incompleted tasks: 100.0%
+Total percentage of overdue tasks: 0.0%
+
+=======================
+ben's metrics
+Total number of tasks assigned to ben: 0
+Total percentage of tasks assigned to ben: 0.0%
+Total percentage of completed tasks: 0%
+Total percentage of incompleted tasks: 0%
+Total percentage of overdue tasks: 0%
+
+=======================
+Shloime's metrics
+Total number of tasks assigned to Shloime: 0
+Total percentage of tasks assigned to Shloime: 0.0%
+Total percentage of completed tasks: 0%
+Total percentage of incompleted tasks: 0%
+Total percentage of overdue tasks: 0%
+
